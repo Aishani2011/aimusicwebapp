@@ -19,8 +19,16 @@ background-size: cover;
 
 }
 
-#speed {
+canvas {
 
-size: 30px;
+border: 5px solid rgb(189, 133, 99);
+border-radius: 20px;
+
+}
+
+.play_sound {
+
+margin-top: 20px;
+width: 130px;
 
 }
